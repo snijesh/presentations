@@ -10,6 +10,8 @@
 
 3. [Construction and analysis of the protein-protein interaction networks based on gene expression profiles of Parkinson’s disease](https://doi.org/10.1371/journal.pone.0103047) <br>
 
+<img src=method.png>
+
 ### 1. Selection of the base Genes
 The curated genes from various studies related to the disease or condition of interest **(BASE GENES)**.
 
@@ -881,12 +883,6 @@ ppi['Score'].hist(bins=10, figsize=[10,5], facecolor='indigo')
 
 
 
-
-    <AxesSubplot:>
-
-
-
-
 ![png](output_15_1.png)
 
 
@@ -1022,11 +1018,11 @@ df
 
 
 
-<img src = ppi.png>
+<img src = ppi.png width=600>
 
 **The PPI developed was imported to cytoscape to compute the topological parameters.
 Next,  PPI was decomposed to a subnetwork using** ```"hubs+partners" & "base genes+partners"```
-<img src = spin.png>
+<img src = spin.png width=600>
 
 
 ```python
