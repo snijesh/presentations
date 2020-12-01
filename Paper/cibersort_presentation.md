@@ -88,6 +88,8 @@ Leukocyte gene signature matrix contains 547 genes that distinguish 22 human hem
 
 3. Removed genes with higher noise level
 
+4. `Non-hematopoietic` and `cancer specific` genes to reduce the influence of non-immune cells on deconvolution results.
+
 ### Validation of signature Matrix
 Show supplementary files [SP2.xls]
 
@@ -178,12 +180,13 @@ Previous approaches avoid this issue by using cell type–specific marker genes 
 ```
 
 
-
-
 ```python
 
 ```
+##. Overall performance
 
+
+<img src='cibersort/performance.PNG'>
 
 ```python
 
