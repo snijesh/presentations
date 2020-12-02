@@ -171,8 +171,13 @@ Previous approaches avoid this issue by using cell type–specific marker genes 
 
 ### 4. Comparison with flow cytometry
 
+1. lung specimens obtained during surgical resection of early stage non-small-cell lung carcinomas
+2. disaggregated lymph node biopsies from follicular lymphoma (FL) patients. 
+<img src='cibersort/flow_cytometry2.png'>
 
-<img src='cibersort/flow_cytometry.PNG'>
+
+<br><br>
+<img src='cibersort/flow_cytometry22.PNG'>
 
 
 ```python
