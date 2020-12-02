@@ -142,6 +142,10 @@ Bottom: Comparison of known and inferred fractions for defined mixtures of (a) b
 
 
 To compare CIBERSORT’s technical performance with that of other methods on mixtures with unknown content, we employed commonly used benchmark data sets consisting of four admixed blood cancer cell lines
+ [GSE11058](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE11058)<br>
+ [GSE11057](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE11057)<br>
+ 
+ **These mixtutres were added to colon cancer cell lines**
 
 <img src='cibersort/mixture_unknown_content.png'>
 
