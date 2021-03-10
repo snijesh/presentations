@@ -10,7 +10,7 @@
 
 3. [Construction and analysis of the protein-protein interaction networks based on gene expression profiles of Parkinson’s disease](https://doi.org/10.1371/journal.pone.0103047) <br>
 
-<img src=method.png>
+<img src=work_flow.png>
 
 ### 1. Selection of the base Genes
 The curated genes from various studies related to the disease or condition of interest **(BASE GENES)**.
