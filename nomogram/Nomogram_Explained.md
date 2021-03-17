@@ -71,7 +71,7 @@ These data indicate associations with the risk of LEAD in patients with T2D afte
 **Multivariate logistic regression analysis for risk of LEAD**
 <br>
 CHD, coronary heart disease; CBD, cerebrovascular disease.<br>
-Model 1 is adjusted for BMI, and <br> Model 2 is adjusted for BMI, BP, TC, TG, LDLC, HDL-C, and eGFR.
+Model 1 is adjusted for BMI, and Model 2 is adjusted for BMI, BP, TC, TG, LDLC, HDL-C, and eGFR.<br>
 <img src='table2.PNG'>
 
 
@@ -81,7 +81,8 @@ Model 1 is adjusted for BMI, and <br> Model 2 is adjusted for BMI, BP, TC, TG, L
 
 **Multivariate logistic regression analysis for risk of moderate-to-severe LEAD.** <br>
 CHD, coronary heart disease; CBD, cerebrovascular disease. <br>
-Model 1 is adjusted for BMI, and <br> Model 2 is adjusted for BMI, BP, TC, TG, LDL-C, HDL-C, and eGFR.
+Model 1 is adjusted for BMI, and Model 2 is adjusted for BMI, BP, TC, TG, LDL-C, HDL-C, and eGFR.<br>
+
 <img src='table3.png'>
 
 #### Predictive accuracy of nomograms for LEAD and moderate-to-severe LEAD in T2D patients.
